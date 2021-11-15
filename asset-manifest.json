@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Upgrading_WeatherApp/static/css/main.e67749e0.chunk.css",
+    "main.js": "/Upgrading_WeatherApp/static/js/main.81678a7f.chunk.js",
+    "main.js.map": "/Upgrading_WeatherApp/static/js/main.81678a7f.chunk.js.map",
+    "runtime-main.js": "/Upgrading_WeatherApp/static/js/runtime-main.6e09dccd.js",
+    "runtime-main.js.map": "/Upgrading_WeatherApp/static/js/runtime-main.6e09dccd.js.map",
+    "static/js/2.ec2f8375.chunk.js": "/Upgrading_WeatherApp/static/js/2.ec2f8375.chunk.js",
+    "static/js/2.ec2f8375.chunk.js.map": "/Upgrading_WeatherApp/static/js/2.ec2f8375.chunk.js.map",
+    "index.html": "/Upgrading_WeatherApp/index.html",
+    "static/css/main.e67749e0.chunk.css.map": "/Upgrading_WeatherApp/static/css/main.e67749e0.chunk.css.map",
+    "static/js/2.ec2f8375.chunk.js.LICENSE.txt": "/Upgrading_WeatherApp/static/js/2.ec2f8375.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Upgrading_WeatherApp/static/media/BG.a052890f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e09dccd.js",
+    "static/js/2.ec2f8375.chunk.js",
+    "static/css/main.e67749e0.chunk.css",
+    "static/js/main.81678a7f.chunk.js"
+  ]
+}
