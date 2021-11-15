@@ -123,6 +123,7 @@ body {
   width: 100%;
   align-items: center;
   justify-content: center;
+  width: 98%;
 }
 
 .future-forecast .today {
@@ -191,9 +192,10 @@ body {
 
 @media only screen and (max-width:730px) {
   .future-forecast {
-    justify-content: start;
-    align-items: none;
+    justify-content:start;
+    align-items: center;
     overflow-y: scroll;
+    width: 90%;
   }
 
   .container {

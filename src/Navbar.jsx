@@ -7,7 +7,7 @@ function Navbar(props) {
         <div className="row">
             <div className="container">
                 <form className="region" onSubmit={(e) => props.changeWeather(e)}>
-                    <input className="regioninput" placeholder="Enter Location"
+                    <input className="regioninput" placeholder="Enter location in English"
                         onChange={(e) => props.changeRegion(e.target.value)} />
                 </form>
             </div>
